@@ -214,9 +214,4 @@ function createTestFiles() {
         console.error("Error creating test files:", error.message);
     }
 }
-
-// Uncomment the line below to create the test files first
-// createTestFiles();
-
-// Run the main function
 main();
